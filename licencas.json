@@ -1,8 +1,11 @@
 {
  "dados": {
-  "emitido": 1794276737,
+  "emitido": 1794276843,
   "bloqueados": {},
-  "avisos": {}
+  "avisos": {},
+  "ativos": {
+   "CS-ZZZZZZ": "Cliente de teste"
+  }
  },
- "assinatura": "KQjDJ45IOhZcOoD00E2VTRBPGtH+8sHDpSd0sR6NkAxjW+QzqcUpmIxf4rD8LcJxL8Jd1ngPpe1tskXcZRfrCg=="
+ "assinatura": "ZjWWQsFLA98P07GavL9q8/kFEej/ME7iRDroM+Cm3iNspN3MOYaqTpWPvpem7Y99hxraFcLl/3XDRZd1rGtmAQ=="
 }
