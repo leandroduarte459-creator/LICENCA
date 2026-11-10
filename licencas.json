@@ -1,8 +1,10 @@
 {
  "dados": {
-  "emitido": 1794270642,
+  "emitido": 1794273368,
   "bloqueados": {},
-  "avisos": {}
+  "avisos": {
+   "CS-UMB4FS": "Teste de aviso"
+  }
  },
- "assinatura": "KQvUEv9851FdG4cwFJDDHClYEpS9+C+QrURw2RLiWbETwyNSJMDFWRiGnckyNplicta8kjmWL0USkCo6xMnlBg=="
+ "assinatura": "IHRvbh1RCk7JTxxi9qTU7leRjvSEtaPwKBHWuX0AxuPT06dsww8who40WhyNPrR8RJ1Au0aWThOipCRQTCveAQ=="
 }
