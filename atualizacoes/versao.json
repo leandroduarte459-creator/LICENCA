@@ -1,11 +1,11 @@
 {
  "dados": {
-  "emitido": 1795781285,
-  "versao": "1.44.0",
-  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.44.0.zip",
-  "sha256": "7b0209d6a49d0233ef8399d05f0446bd11e5fe9fef315b8f6b19a2fdbb3fcf0e",
-  "tamanho": 1458971,
-  "notas": "Código de barras automático nos produtos (EAN-13 interno, sem repetir)."
+  "emitido": 1795782174,
+  "versao": "1.44.2",
+  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.44.2.zip",
+  "sha256": "e6cdedf567d79ab06034daf8fe127334d8c3933ae1bb8af5a2195d927202ce4e",
+  "tamanho": 1460211,
+  "notas": "DRE com o quadro Caixa do mês (compras pagas, despesas e sobra de caixa)."
  },
- "assinatura": "QCXuHdBifkVTWF/1CfYlui62PVpPduqq/tz/X2j9MTFmmOKIqGMgQfPJO7G/WGJ9RNqU1sryjnETCLo1xc0YCA=="
+ "assinatura": "KDPoz3FkB4QE/N7+89ZTsvUse+AOTxOs0yK/KbKa+VQPZ0r+pOfLUuQxmYyGiGrsnoYgNqbwWYMKjf4g2PuiAg=="
 }
