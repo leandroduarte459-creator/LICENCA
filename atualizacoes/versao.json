@@ -1,11 +1,11 @@
 {
  "dados": {
-  "emitido": 1795782174,
-  "versao": "1.44.2",
-  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.44.2.zip",
-  "sha256": "e6cdedf567d79ab06034daf8fe127334d8c3933ae1bb8af5a2195d927202ce4e",
-  "tamanho": 1460211,
-  "notas": "DRE com o quadro Caixa do mês (compras pagas, despesas e sobra de caixa)."
+  "emitido": 1795782928,
+  "versao": "1.45.0",
+  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.45.0.zip",
+  "sha256": "35e5b66509a39425e0e3580ff29198c5cf9eea05cf69920e18d2e32c61e5c6cd",
+  "tamanho": 1467353,
+  "notas": "Tela inicial com o resumo do dia, menu mais enxuto, melhor contraste no tema escuro e telas ajustadas para celular."
  },
- "assinatura": "KDPoz3FkB4QE/N7+89ZTsvUse+AOTxOs0yK/KbKa+VQPZ0r+pOfLUuQxmYyGiGrsnoYgNqbwWYMKjf4g2PuiAg=="
+ "assinatura": "0Qk9vxtStOFqCUg1Kad2xVK/aIhTux49jBYZe1Kbjx0UCi5wy0llkuCTQl1tekYv6Mk5v6g78KygDoq6sfFcAA=="
 }
