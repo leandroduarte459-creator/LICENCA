@@ -1,11 +1,11 @@
 {
  "dados": {
-  "emitido": 1795779418,
-  "versao": "1.42.1",
-  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.42.1.zip",
-  "sha256": "32b97f020e1ba69409d0ee190bf3bf838738e91825650bf26536bdb84a05cb44",
-  "tamanho": 1432969,
-  "notas": "Troca de NFC-e (cancelamento no prazo ou devolução), maquininhas com taxa por parcela, desconto no PDV e cupom no topo."
+  "emitido": 1795780217,
+  "versao": "1.43.0",
+  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.43.0.zip",
+  "sha256": "aafdf84ff3f4675e12c7560df77e7942e50d56d6b2d6bf00022ba4f021f96b15",
+  "tamanho": 1451828,
+  "notas": "Relatório de recebimentos por máquina e parcelas, previsão de crédito e relatórios em PDF."
  },
- "assinatura": "6kf1uFBgx2RuFd2q9VTaO6/MKIejpTRSCUFPdZxQzfdzEUCNGXTYhvScoH+S9PmYS74ivlBlrBunjU9i0JkxCQ=="
+ "assinatura": "fMLmstHH0kGidyn2oiRup5QjYS2X2oMPB6YhPG2365f6ibBbn+k2KbBAejvUDtVoZEO3FUHcyckXQyV6qCbFAA=="
 }
