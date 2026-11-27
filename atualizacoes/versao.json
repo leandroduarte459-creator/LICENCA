@@ -1,11 +1,11 @@
 {
  "dados": {
-  "emitido": 1795782928,
-  "versao": "1.45.0",
-  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.45.0.zip",
-  "sha256": "35e5b66509a39425e0e3580ff29198c5cf9eea05cf69920e18d2e32c61e5c6cd",
-  "tamanho": 1467353,
-  "notas": "Tela inicial com o resumo do dia, menu mais enxuto, melhor contraste no tema escuro e telas ajustadas para celular."
+  "emitido": 1795783570,
+  "versao": "1.46.0",
+  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.46.0.zip",
+  "sha256": "5cdf08f78a642501bc78ddd029005e0407d51fa0280eafe6687d3e0714e7e5cb",
+  "tamanho": 1476176,
+  "notas": "Cupom e etiquetas se ajustam sozinhos à impressora; ajuste fino salvo no computador."
  },
- "assinatura": "0Qk9vxtStOFqCUg1Kad2xVK/aIhTux49jBYZe1Kbjx0UCi5wy0llkuCTQl1tekYv6Mk5v6g78KygDoq6sfFcAA=="
+ "assinatura": "pGsQtbs3sEGPh3TsTJVGl+/tofe8Q6L13TcDhdIzWkOvSuxvmZAGFydlolcHIMsf+A6C18d60pgDLFB9C2YbDA=="
 }
