@@ -1,11 +1,11 @@
 {
  "dados": {
-  "emitido": 1795780895,
-  "versao": "1.43.2",
-  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.43.2.zip",
-  "sha256": "281e8904541c914aac1eb934156c4c345156d6f75615c4feb70bd52f5ace907f",
-  "tamanho": 1456028,
-  "notas": "Relatório de vendas simplificado (resumo e totais por forma de pagamento) além do detalhado."
+  "emitido": 1795781285,
+  "versao": "1.44.0",
+  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.44.0.zip",
+  "sha256": "7b0209d6a49d0233ef8399d05f0446bd11e5fe9fef315b8f6b19a2fdbb3fcf0e",
+  "tamanho": 1458971,
+  "notas": "Código de barras automático nos produtos (EAN-13 interno, sem repetir)."
  },
- "assinatura": "RJTpozi7XwL0LVT5ISrZ1kgPfLueHAw4TekXa8ltISqvrEfyZVDXe14Ctp8J+PZcnkGFbTi5A9hqHVdD2fW0AQ=="
+ "assinatura": "QCXuHdBifkVTWF/1CfYlui62PVpPduqq/tz/X2j9MTFmmOKIqGMgQfPJO7G/WGJ9RNqU1sryjnETCLo1xc0YCA=="
 }
