@@ -1,11 +1,11 @@
 {
  "dados": {
-  "emitido": 1795720040,
-  "versao": "1.39.1",
-  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.39.1.zip",
-  "sha256": "4bc5b5e2268ec19c4e3496f9fe8b6ca74997c51d6459e7ee0e544202de6b8d31",
-  "tamanho": 1387626,
-  "notas": "Sugestões de melhoria enviadas automaticamente por e-mail ao suporte; botão Suporte (WhatsApp); aba de sugestões."
+  "emitido": 1795779418,
+  "versao": "1.42.1",
+  "url": "https://raw.githubusercontent.com/leandroduarte459-creator/LICENCA/refs/heads/main/atualizacoes/Atualizacao_v1.42.1.zip",
+  "sha256": "32b97f020e1ba69409d0ee190bf3bf838738e91825650bf26536bdb84a05cb44",
+  "tamanho": 1432969,
+  "notas": "Troca de NFC-e (cancelamento no prazo ou devolução), maquininhas com taxa por parcela, desconto no PDV e cupom no topo."
  },
- "assinatura": "GQ8NPInTwU8EOgdAzojTSzbYGqhQ1NFNx613qTgaUDaE7wBHxrgBBZhRF3o+oB/5HqwsJzVjMVDlyQTOGjZVAw=="
+ "assinatura": "6kf1uFBgx2RuFd2q9VTaO6/MKIejpTRSCUFPdZxQzfdzEUCNGXTYhvScoH+S9PmYS74ivlBlrBunjU9i0JkxCQ=="
 }
